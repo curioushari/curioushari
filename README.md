@@ -4,6 +4,7 @@ I'm here to explore, collaborate and create meaningful,useful software.
 
 ![GIF](setup.gif)
 
+
 <h3>🧩 GitHub Analytics</h3>
 <a href="https://github.com/curioushari">
     <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=curioushari&theme=transparent&hide_border=true&border_color=646464" alt="curioushari"/>
