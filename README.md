@@ -1,6 +1,6 @@
 ### Hi there, I am Harikrishnan N 👋
 
-I'm here to explore, collaborate and create meaningful,useful software.
+I'm here to explore,collaborate and create meaningful,useful software.
 
 ![GIF](setup.gif)
 
